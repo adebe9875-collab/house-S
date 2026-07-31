@@ -2,7 +2,7 @@
 
 # 🏠 HouseOS
 
-![OS demo](/images/Screenshot-1.png)
+![OS demo](Orange Black Online Shopping Logo.png)
 
 ### *Your Home for Operating Systems.*
 
