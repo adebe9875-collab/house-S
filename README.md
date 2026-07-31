@@ -2,6 +2,8 @@
 
 # 🏠 HouseOS
 
+![OS demo](/images/Screenshot-1.png)
+
 ### *Your Home for Operating Systems.*
 
 <img src="assets/logo.png" width="180">
