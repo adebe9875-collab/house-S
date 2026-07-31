@@ -2,8 +2,9 @@
 
 # 🏠 HouseOS
 
-![OS demo]([Orange Black Online Shopping Logo.png](Orange Black Online Shopping Logo.png))
-
+<p align="center">
+  <img src="assets/logo.png" alt="HouseOS Logo" width="300">
+</p>
 ### *Your Home for Operating Systems.*
 
 <img src="assets/logo.png" width="180">
