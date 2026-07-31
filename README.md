@@ -2,7 +2,7 @@
 
 # 🏠 HouseOS
 
-![OS demo](Orange Black Online Shopping Logo.png)
+![OS demo]([Orange Black Online Shopping Logo.png](https://github.com/adebe9875-collab/house-S/blob/874fece96f516aa65822ca2772e2aa51ec19a1f5/Orange%20Black%20Online%20Shopping%20Logo.png))
 
 ### *Your Home for Operating Systems.*
 
