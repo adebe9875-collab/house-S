@@ -1,11 +1,9 @@
 <div align="center">
 
 # 🏠 HouseOS
-
-<img align="right" width="100" Orange Black Online Shopping Logo.png" src=./[Orange Black Online Shopping Logo.png]
 ### *Your Home for Operating Systems.*
 
-<img src="assets/logo.png" width="180">
+<img align="right" width="100" height="100" src="./src/mods/30-gnome-extension-arcmenu-patch/logo.svg">
 
 ![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Development-orange?style=for-the-badge)
